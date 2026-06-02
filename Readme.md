@@ -61,6 +61,18 @@ pip install -r requirements.txt
 
 ---
 
+## 🚀 Usage
+
+Run the Streamlit app locally:
+
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser at `http://localhost:8501`
+
+---
+
 ## 🌍 Deployment
 
 This app is deployed using **Streamlit Community Cloud**
@@ -83,4 +95,10 @@ This app is deployed using **Streamlit Community Cloud**
 
 **Tanish Sharma**
 
-GitHub: [https://github.com/Tanish4196](https://github.com/Tanish4196)
+- GitHub: [https://github.com/Tanish4196](https://github.com/Tanish4196)
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
